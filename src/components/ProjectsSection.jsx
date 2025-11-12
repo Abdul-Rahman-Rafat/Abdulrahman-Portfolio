@@ -18,7 +18,7 @@ const projects = [
     description:
       "A dynamic dashboard with real-time weather API integration and notes management.",
     image: "/projects/project2.png",
-    tags: ["React", "JavaScript", ", REST APIs"],
+    tags: ["React", "JavaScript", "REST APIs"],
     demoUrl: "#",
     githubUrl: "https://github.com/Abdul-Rahman-Rafat/React-Dashboard-Project-.git",
   },
